@@ -55,4 +55,9 @@ wp_files → guarda los archivos de WordPress
 # luego si no hay ningun error,  hacemos 
 docker compose up -d 
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dc4d37c6-ab46-41aa-b597-a6c587d83ec9" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/538a8a2d-0203-43ad-a2ef-b0b2137f312c" />
+
+
 
